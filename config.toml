@@ -1,4 +1,4 @@
-baseurl = "https://x-shuang.github.io/1-whiteplain/"
+baseurl = "https://claude.life-wild.org/1-whiteplain/"
 title = "远方来信"
 # themesDir = "../../"
 theme = ["whiteplain"]
